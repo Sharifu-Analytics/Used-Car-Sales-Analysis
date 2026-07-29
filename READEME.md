@@ -5,6 +5,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+## Dashboard Preview
+
+![Dashboard](used-car-sales-dashboard.png)
+
 ## 📑 Table of Contents
 
 - [Dashboard Preview](#-dashboard-preview)
@@ -30,24 +34,6 @@ The primary objective is to transform raw vehicle listing data into meaningful b
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](used-car-sales-dashboard.png)
-
-# 🎯 Business Objectives
-
-This analysis was conducted to answer several important business questions:
-
-- What is the overall distribution of used car prices?
-- How does vehicle mileage influence selling price?
-- Which car brands dominate the Russian used car market?
-- Which countries manufacture the most listed vehicles?
-- How do fuel types affect vehicle pricing?
-- How does transmission type influence average selling price?
-- What key performance indicators (KPI) best summarize the used car market?
-
----
-
 # 📊 Dataset Information
 
 **Dataset Characteristics**
@@ -67,6 +53,23 @@ This analysis was conducted to answer several important business questions:
 - Transmission
 - Vehicle Age
 - Additional vehicle specifications
+
+
+# 🎯 Business Objectives
+
+This analysis was conducted to answer several important business questions:
+
+- What is the overall distribution of used car prices?
+- How does vehicle mileage influence selling price?
+- Which car brands dominate the Russian used car market?
+- Which countries manufacture the most listed vehicles?
+- How do fuel types affect vehicle pricing?
+- How does transmission type influence average selling price?
+- What key performance indicators (KPI) best summarize the used car market?
+
+---
+
+
 
 ---
 
