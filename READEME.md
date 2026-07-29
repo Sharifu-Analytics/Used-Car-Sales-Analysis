@@ -5,18 +5,20 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## Table of Contents
+## 📑 Table of Contents
 
-- Dashboard Preview
-- Project Summary
-- Dataset Overview
-- Business Objectives
-- Key Insights
-- Dashboard Features
-- Technologies Used
-- Files
-- How to Run
-- Future Improvements
+- [Dashboard Preview](#-dashboard-preview)
+- [Project Summary](#-project-summary)
+- [Dataset Overview](#-dataset-overview)
+- [Business Objectives](#-business-objectives)
+- [Key Insights](#-key-insights)
+- [Dashboard Features](#-dashboard-features)
+- [Technologies Used](#-technologies-used)
+- [Files](#-files)
+- [How to Run](#-how-to-run)
+- [Future Improvements](#-future-improvements)
+- [Contact](#-contact)
+- [Author](#-author)
 
 ## 📋 Project Summary
 
@@ -191,26 +193,20 @@ Potential future improvements include:
 
 ---
 
-# 👤 Author
+## 👤 Author
 
 **Md Shariful Islam**
 
-Aspiring Data Analyst specializing in:
+Aspiring Data Analyst specializing in SQL, Python, Power BI, and Data Visualization.
 
-- SQL
-- Python
-- Power BI
-- Excel
-- Business Intelligence
-- Data Visualization
+🐙 GitHub:
+https://github.com/Sharifu-Analytics
 
-GitHub:
-*(https://gitHub.com/Sharifu-Analytics)*
+💼 LinkedIn:
+https://linkedin.com/in/Islam-Freelancer
 
-LinkedIn:
-*(https://linkedin.com/in/Islam-Freelancer)*
-*(email:islam.md@gmail.com)*
-
+📧 Email:
+islam.md@gmail.com
 ---
 
 ## Disclaimer
