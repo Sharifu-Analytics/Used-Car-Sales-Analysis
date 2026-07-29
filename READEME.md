@@ -1,5 +1,23 @@
 # 🚗 Used Car Sales Analysis Dashboard | Python
 
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+## Table of Contents
+
+- Dashboard Preview
+- Project Summary
+- Dataset Overview
+- Business Objectives
+- Key Insights
+- Dashboard Features
+- Technologies Used
+- Files
+- How to Run
+- Future Improvements
+
 ## 📋 Project Summary
 
 This project presents a comprehensive exploratory data analysis (EDA) and business intelligence dashboard built using Python. The analysis is based on a real-world used car marketplace dataset covering **more than 41,900 vehicle listings across 24 cities in Russia**.
@@ -191,6 +209,7 @@ GitHub:
 
 LinkedIn:
 *(https://linkedin.com/in/Islam-Freelancer)*
+*(email:islam.md@gmail.com)*
 
 ---
 
