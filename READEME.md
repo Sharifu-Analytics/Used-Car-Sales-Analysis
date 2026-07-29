@@ -10,6 +10,10 @@ The primary objective is to transform raw vehicle listing data into meaningful b
 
 ---
 
+## Dashboard Preview
+
+![Dashboard](used-car-sales-dashboard.png)
+
 # 🎯 Business Objectives
 
 This analysis was conducted to answer several important business questions:
@@ -125,11 +129,6 @@ Key findings from the analysis include:
 
 ---
 
-# 📷 Dashboard Preview
-
-![Used Car Sales Dashboard](used-car-sales-dashboard.png)
-
----
 
 # 📂 Project Structure
 
